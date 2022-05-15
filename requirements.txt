@@ -1,5 +1,6 @@
 future
 emoji
+NumPy
 lxml
 beautifulsoup4
 requests
@@ -13,7 +14,6 @@ zalgo-text
 geopy
 psutil
 jikanpy
-speedtest-cli
 coffeehouse
 regex
 bleach
